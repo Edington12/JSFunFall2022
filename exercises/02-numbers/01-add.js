@@ -4,7 +4,7 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
-const sum=5+10;
+const sum=5+20;
 console.log(sum)
 
 
