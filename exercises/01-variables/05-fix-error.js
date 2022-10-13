@@ -6,6 +6,7 @@
 
 // This is throwing an error. Do you know why?
 const numberOfLikes = 57; // Change me
+const NUMBER_OF_LIKES = 57;
 
 // DO NOT CHANGE THE CODE BELOW
 

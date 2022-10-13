@@ -6,3 +6,7 @@ let price = 5.99;
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+console.log(price + 1);
+
+
+
