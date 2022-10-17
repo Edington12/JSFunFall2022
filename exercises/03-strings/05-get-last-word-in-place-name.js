@@ -16,3 +16,10 @@ const place = "New Jersey"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+const Place = "New Jersey2";
+const index = newPlace.indexOf(" ");
+let newPlace = lastName;
+const Place = newPlace.substring(index + 1);
+console.log(lastName)
+
+

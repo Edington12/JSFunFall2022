@@ -19,6 +19,9 @@ let letter = "i"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
-let characterPosition = firstName.substring(index, "1");
-console.log(characterPosition)
+const firstname = "Briana";
+let letter = "a";
+let characterPosition = firstName.substring(index, "a");
+/*const index = letter.indexOf("a");*/
+console.log(index)
 

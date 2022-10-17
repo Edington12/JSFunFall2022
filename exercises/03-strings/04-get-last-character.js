@@ -9,3 +9,7 @@ let str = "Wes Craven"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+const letters = "Wes Craven";
+let letter = letters[9];
+console.log(letter)
+
