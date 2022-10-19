@@ -16,3 +16,9 @@ let newLastName = "Fernandez"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+/*let fullName1 = "Michele Edington"; 
+let newLastName1 = "Edington-Bryan";*/  
+const index = fullName.indexOf(" ");
+const newName = fullName.substring(0, index +1) + newLastName;
+console.log(newName);
+

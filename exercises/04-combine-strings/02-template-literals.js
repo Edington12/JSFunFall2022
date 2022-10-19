@@ -16,3 +16,7 @@ let author = "J. K. Rowling";
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+/*const bookTitle1 = "Harry Potter and the Sorcerer's Stone";
+const author1 = " by J. K. Rowling";*/
+let bookInfo = (`${bookTitle} by ${author}`)
+console.log(bookInfo)

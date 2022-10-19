@@ -22,4 +22,7 @@ let newPlace = lastName;
 const Place = newPlace.substring(index + 1);
 console.log(lastName)
 
+let index = place.indexOf(" ");
+let newPlace = place.substring(index + 1);
+
 
