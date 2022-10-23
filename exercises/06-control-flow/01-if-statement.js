@@ -22,4 +22,4 @@ if (isBuyingDrink) {console.log(total = burger + drink);
   console.log(total);
 }
 
-console.log("Enjoy!")
+/*console.log("Enjoy!")*/

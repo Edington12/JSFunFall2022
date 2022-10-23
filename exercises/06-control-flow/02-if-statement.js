@@ -13,3 +13,6 @@ let total;
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+if (tip) {console.log(total = (subtotal * tip) + subtotal);
+}  else {console.log (total = (subtotal));
+}
