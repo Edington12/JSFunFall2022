@@ -8,3 +8,7 @@ let num = 8; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+let isEven;
+if (num === even) {console.log (isEven = "true");
+}  else {console.log (isEven = "false");
+}

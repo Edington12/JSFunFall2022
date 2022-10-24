@@ -10,3 +10,11 @@ let num2 = 20; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+let islargerNumber;
+if (num2 > num1) { console.log (islargerNumber = "true");
+}  else if   (num1 > num2) { console.log (islargerNumber = "false"); 
+}  else (num1 === num2) { console.log (islargerNumber = "false");
+}
+
+
+

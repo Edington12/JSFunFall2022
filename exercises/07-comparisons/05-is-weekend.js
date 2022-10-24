@@ -9,3 +9,8 @@ let day = "Saturday";
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+let isWeekend;
+if (day || "Saturday") {console.log (isWeekend = "true");
+}  else if (day || "Sunday") {console.log (isWeekend = "true");
+}  else {console.log (isWeekend = "false");
+}
