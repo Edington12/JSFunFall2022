@@ -16,3 +16,7 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+const multiply = (num) => {return num1 * num2 };
+let result = (5, 5);
+console.log (result);
+

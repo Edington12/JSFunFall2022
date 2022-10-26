@@ -16,3 +16,6 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+const lowerCaseString = (str) => {return };
+return (str.toLowerCase);
+

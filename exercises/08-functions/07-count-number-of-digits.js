@@ -10,3 +10,7 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+const countNumberofDigits = (num) => {count};
+return (countNumberofDigits);
+countNumberofDigits (100);
+
