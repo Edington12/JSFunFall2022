@@ -9,4 +9,7 @@ const cars = ["BMW", "Honda", "Civic"]; // Do not change this line
  * Solve this problem without using destructuring.
  */
 
-// WRITE YOUR ANSWER BELOW THIS LINEs
+// WRITE YOUR ANSWER BELOW THIS LINE
+/*let myCar = cars [0];*/
+let [myCar] = cars;
+console.log (myCar);

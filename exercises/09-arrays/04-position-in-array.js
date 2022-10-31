@@ -5,6 +5,7 @@ let results = [
   "Jian Hou",
   "María Rosales",
   "Fathima Kaur",
+
 ];
 
 /**
@@ -19,3 +20,7 @@ let results = [
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+let place = results.indexOf ("Jian Hou") + 1;
+
+
+
