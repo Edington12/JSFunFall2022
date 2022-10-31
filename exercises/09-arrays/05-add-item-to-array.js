@@ -8,4 +8,5 @@ let languages = ["C++"]; // Do not change this line
 languages [1] = "Python";
 languages [2] = "Java";
 languages [3] = "JavaScript";
+/*console.log (languages);*/
 
