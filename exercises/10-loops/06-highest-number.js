@@ -10,6 +10,8 @@
 
 const highestNumber = (numbers) => {
   // WRITE YOUR ANSWER HERE
+  /*I believe you use sort in this question*/
+  
 };
 
 // IGNORE THIS BELOW. It is for the tests.

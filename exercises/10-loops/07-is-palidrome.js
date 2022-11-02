@@ -10,6 +10,8 @@
 
 const isPalindrome = (string) => {
   // WRITE YOUR ANSWER HERE
+  /*I believe you use spliter in this question*/
+
 };
 
 // IGNORE THIS BELOW. It is for the tests.
