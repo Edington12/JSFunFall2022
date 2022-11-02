@@ -13,7 +13,15 @@
 
 const logArrayWithFor = (array) => {
 	// WRITE YOUR ANSWER HERE
+	/*let array = ["Honda", "Ford", "Ferrari"];*/
+	for (let i = 0; i < array.length; i++) {
+		const models = array[i];
+		/*console.log(models);*/
+	}
 };
+
+
+
 
 // IGNORE THIS BELOW. It is for the tests.
 

@@ -8,8 +8,9 @@
 
 const arrayLength = (array) => {
   // WRITE YOUR ANSWER HERE
+ return array.length;
 };
 
 // IGNORE THIS BELOW. It is for the tests.
-
+console.log (arrayLength([1, 9, 3, 201]));
 export default arrayLength;

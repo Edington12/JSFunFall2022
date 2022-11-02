@@ -8,7 +8,11 @@
 
 const returnAnswer = (personName) => {
   // WRITE YOUR ANSWER HERE
+ return personName; 
 };
+
+returnAnswer ("Lesley");
+console.log ("personName");
 
 // IGNORE THIS BELOW. It is for the tests.
 
