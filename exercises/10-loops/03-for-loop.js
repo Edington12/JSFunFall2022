@@ -16,7 +16,7 @@ const logArrayWithFor = (array) => {
 	/*let array = ["Honda", "Ford", "Ferrari"];*/
 	for (let i = 0; i < array.length; i++) {
 		const models = array[i];
-		/*console.log(models);*/
+		console.log(models);
 	}
 };
 

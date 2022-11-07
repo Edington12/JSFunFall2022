@@ -8,10 +8,13 @@
 
 const add = (numbers) => {
   // WRITE YOUR ANSWER HERE
-  for (let i = 0; i < array.length; i++) {
-		console.log(i + i);
+  let sum = 0;
+  for (let i = 0; i < numbers.length; i++) {
+		const num = numbers [i];
+    sum = (sum + num);
+}; 
+  return(sum);
 };
-
 // IGNORE THIS BELOW. It is for the tests.
-
+/*console.log(sum);*/
 export default add;
