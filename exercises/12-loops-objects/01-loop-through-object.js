@@ -18,8 +18,12 @@
 
 const generateLinks = (links) => {
   // WRITE YOUR ANSWER HERE
+for 
+  links = [Dogs, Kittens, "Hamster Dance"]
+  (links["<0>","<1>","<2>"].objects)
+  return(generateLinks);
 };
-
+console.log(links[0,1,2]);
 // IGNORE THIS BELOW. It is for the tests.
 
 export default generateLinks;
