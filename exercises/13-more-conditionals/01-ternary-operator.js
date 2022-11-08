@@ -11,3 +11,8 @@ let num = 8; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+/*const num = 8;*/
+const isEvenOrOdd = num % 2 === 0
+? "even"
+: "odd";
+
