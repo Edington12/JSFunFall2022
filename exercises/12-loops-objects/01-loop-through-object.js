@@ -17,8 +17,14 @@
  */
 
 const generateLinks = (links) => {
+  console.log(links);
   // WRITE YOUR ANSWER HERE
-for 
+  let str = "";
+for (let text in links) {
+  console.log(text);
+  console.log(links[text]);
+  str = str + "<a href="${links[text]}">${text}</a>';
+}
   links = [Dogs, Kittens, "Hamster Dance"]
   (links["<0>","<1>","<2>"].objects)
   return(generateLinks);
