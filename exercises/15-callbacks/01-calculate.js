@@ -23,7 +23,16 @@
 
 const calculate = (num1, num2, callback) => {
   // WRITE YOUR ANSWER HERE
+  callback ()
+const multiplyNum = (a, b) => {
+  return (num1 * num2);
+} 
+const divideNum = (a, b) => {
+  return (num1/num2);
+}
 };
+console.log (calculate (2, 5, multiplyNum));
+console.log (calculate (10, 5, divideNum));
 
 // IGNORE THIS BELOW. It is for the tests.
 
