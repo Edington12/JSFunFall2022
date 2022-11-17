@@ -13,6 +13,10 @@
  */
 
 // WRITE PART 1 OF YOUR ANSWER HERE
+const printer = (name) => {
+  console.log(`Students name is: ${name}\n`);
+};
+  /*return ("Students name is: ", studentName);*/
 
 /**
  * PART 2
@@ -29,8 +33,17 @@
  */
 const printNames = (array, callback) => {
   // WRITE PART 2 OF YOUR ANSWER HERE
+/*for (let i = 0; i < array.length; i++) {
+    const item = array[i];
+}*/
+  for (let item of array) {
+  callback(printer);
+  console.log(printer);
+}
 };
-
+  /*for (let item of array) {
+  callback(item);
+}*/
 // IGNORE THIS BELOW. It is for the tests.
 
 const myExports = {
