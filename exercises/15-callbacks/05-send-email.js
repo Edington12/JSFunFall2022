@@ -21,3 +21,10 @@ const askForUpdate = () => {
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+const sendEmail = (callback) => {
+  console.log(callback());
+};
+
+/*sendEmail(askForUpdate);*/
+
+
