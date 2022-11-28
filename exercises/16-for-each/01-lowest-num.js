@@ -18,3 +18,5 @@ const printLowestNumber = (number, index, array) => {
 
 numbers.forEach(printLowestNumber);
 
+
+
