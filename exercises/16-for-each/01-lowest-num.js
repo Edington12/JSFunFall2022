@@ -9,11 +9,12 @@ const numbers = [1, 10, -2, 3, 4]; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
 const printLowestNumber = (number, index, array) => {
-  if (num < lowestNumber) {
+  if (number < lowestNumber) {
     lowestNumber = number;
   }
 };
 
-numbers.forEach(lowestNumber());
+numbers.forEach(printLowestNumber);
 

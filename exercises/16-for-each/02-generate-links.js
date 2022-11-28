@@ -24,8 +24,9 @@ const links = [
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
-const printhtmlStr = (htmlStr, callback) => {
-  console.log(`"<a href= ", ${links}`);
+const printhtmlStr = (link, index) => {
+  /*console.log(`<a href="${link}"> ${index+1}. ${link}</a>`);*/
+  htmlStr += (`<a href="${link}"> ${index+1}. ${link}</a>`)
 
 };
-links.forEach(printhtmlStr());
+links.forEach(printhtmlStr);
